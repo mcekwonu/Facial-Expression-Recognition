@@ -13,6 +13,6 @@ Download dataset via: https://www.kaggle.com/msambare/fer2013
 ## sample predictions with test dataset
 
 
-![predicted_happy](https://user-images.githubusercontent.com/17880412/144752307-7c175dc5-c791-408b-87b8-fd9bd623632f.png)
+![predicted_happy](https://user-images.githubusercontent.com/17880412/144752307-7c175dc5-c791-408b-87b8-fd9bd623632f.png){:height="50%" width="50%"}
 ![predicted_fear](https://user-images.githubusercontent.com/17880412/144752313-938a5099-a0b6-44c6-87a9-98585bdfb84a.png)
 ![predicted_surprise](https://user-images.githubusercontent.com/17880412/144752314-ca147c07-74a9-43e4-ad4d-a7b1d3e65126.png)
